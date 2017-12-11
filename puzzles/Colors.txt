@@ -1,0 +1,11 @@
+Colors
+Red
+Green
+Blue
+Orange
+Purple
+White
+Black
+Yellow
+Pink
+Silver
